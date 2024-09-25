@@ -51,7 +51,7 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 
 ![grado_100.png](include/grado_100.png)
 ![path_length_100.png](include/path_length_100.png)
-![rhogrado_100.png](include/rhogrado_100.png)
+![rhogrado_100.png](include/pl_densy.png)
 
 
 
