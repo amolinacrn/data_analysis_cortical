@@ -72,3 +72,13 @@ Este estudio es pionero en describir y analizar c√≥mo las redes funcionales var√
 ## Autores
 
 - [Miguel Alejandro Molin Ceron](https://github.com/tu_usuario)
+
+  ## El documento completo de este trabajo lo puede encontrar aqui:
+
+  [https://github.com/amolinacrn/](https://github.com/amolinacrn/data_analysis_cortical/blob/main/DISSERTA%C3%87%C3%83O%20Miguel%20Alejandro%20Molina%20Ceron.pdf)
+
+[https://drive.google.com/drive](https://drive.google.com/drive/u/0/my-drive)
+  
+  
+
+   
