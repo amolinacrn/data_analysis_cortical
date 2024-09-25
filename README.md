@@ -61,7 +61,7 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 ![rhogrado_100.png](include/cv_funcioal.png)
 
 4. **Patrones de Activación Neuronal:**
-   - Gráficas que muestran los patrones de activación neuronal en funcion del tiempo, la dinámica de interacción neuronal evoluciona hacia una estructura modular. 
+   - Gráficas que muestran los patrones de activación neuronal en funcion del tiempo, la dinámica de interacción neuronal evoluciona hacia una estructura modular o comunitaria.
   
      ![rhogrado_100.png](include/cvComunidad.png)
 
