@@ -1,4 +1,4 @@
-# Redes Funcionais, Estrutura Modular e Padrões entre Estados Corticais
+# Redes Funcionales, Estrutura Modular e Padrões entre Estados Corticais
 
 ## Descripción
 
@@ -33,13 +33,13 @@ El análisis se centró en calcular los valores funcionales y se utilizó la fre
 
 ## Resultados
 
-En este estudio, se realizó un análisis de datos corticais (series temporales) de ratas anestesiadas con uretana, enfocándose en la región visual \( V_1 \). Para optimizar el rendimiento computacional, se desarrollaron códigos en diferentes lenguajes de programación, incluyendo C, C++, C# y Python, además de utilizar software como Wolfram Mathematica y MATLAB.
+En este estudio, se realizó un análisis de datos corticais (series temporales) de ratas anestesiadas con uretana, enfocándose en la región visual $V_1$. Para optimizar el rendimiento computacional, se desarrollaron códigos en diferentes lenguajes de programación, incluyendo C, C++, C# y Python, además de utilizar software como Wolfram Mathematica y MATLAB.
 
-Los resultados destacan que todas las métricas de red muestran variación en función del coeficiente de variación. Las métricas analizadas incluyen el grado medio, eficiencia media, longitud del camino, propensión al mundo pequeño, modularidad y coeficiente de agrupamiento. Especial atención se presta a la métrica \( \langle L \rangle \), que presenta dos tendencias lineales que se cruzan en un rango aproximado de 1.2 a 1.4, valores cercanos al punto crítico identificado en investigaciones anteriores.
+Los resultados destacan que todas las métricas de red muestran variación en función del coeficiente de variación. Las métricas analizadas incluyen el grado medio, eficiencia media, longitud del camino, propensión al mundo pequeño, modularidad y coeficiente de agrupamiento. Especial atención se presta a la métrica $\langle L \rangle$, que presenta dos tendencias lineales que se cruzan en un rango aproximado de 1.2 a 1.4, valores cercanos al punto crítico identificado en investigaciones anteriores.
 
-La métrica \( \langle L \rangle \) es crucial para cuantificar la estructura topológica de una red y su variación cerca del punto crítico puede ofrecer pistas sobre cambios en la topología de las redes funcionales. Los resultados muestran similitudes cualitativas entre redes binarias y ponderadas. La propiedad de mundo pequeño es más pronunciada a bajos niveles de coeficiente de variación, disminuyendo a medida que aumenta este parámetro.
+La métrica $\langle L \rangle$ es crucial para cuantificar la estructura topológica de una red y su variación cerca del punto crítico puede ofrecer pistas sobre cambios en la topología de las redes funcionales. Los resultados muestran similitudes cualitativas entre redes binarias y ponderadas. La propiedad de mundo pequeño es más pronunciada a bajos niveles de coeficiente de variación, disminuyendo a medida que aumenta este parámetro.
 
-Sin embargo, la variabilidad incontrolable en la red plantea desafíos significativos, ya que las métricas \( \langle L \rangle \) y \( \langle C \rangle \) son altamente sensibles a estas variaciones, lo que puede introducir sesgos en los resultados. La detección de patrones en las series temporales es fundamental, ya que centrarse solo en el coeficiente de variación puede llevar a limitaciones en la comprensión de la dinámica subyacente.
+Sin embargo, la variabilidad incontrolable en la red plantea desafíos significativos, ya que las métricas $\langle L \rangle$ y $\langle C \rangle$ son altamente sensibles a estas variaciones, lo que puede introducir sesgos en los resultados. La detección de patrones en las series temporales es fundamental, ya que centrarse solo en el coeficiente de variación puede llevar a limitaciones en la comprensión de la dinámica subyacente.
 
 ## Conclusiones
 
