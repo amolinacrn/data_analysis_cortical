@@ -51,18 +51,10 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 
 
 ![SWP_cl.png](include/SWP_cl.png)
-
 ![fit_100.png](include/fit_100.png)
-![fit_250.png](include/fit_250.png)
-![fit_50.png](include/fit_50.png)
-![grade_densy.png](include/grade_densy.png)
 ![grado_100.png](include/grado_100.png)
-![grado_250.png](include/grado_250.png)
 ![grado_vs_cv.png](include/grado_vs_cv.png)
 ![lp_cv_Mar07.png](include/lp_cv_Mar07.png)
-![mcwitges.png](include/mcwitges.png)
-![mcwitges_100.png](include/mcwitges_100.png)
-![path_leng_ipto.png](include/path_leng_ipto.png)
 ![path_length_100.png](include/path_length_100.png)
 ![pl_densy.png](include/pl_densy.png)
 ![pl_densy_250.png](include/pl_densy_250.png)
