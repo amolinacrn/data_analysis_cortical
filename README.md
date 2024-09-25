@@ -48,26 +48,7 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 1. **Gráfica de Variación de la Métrica $\langle L \rangle$:**
    - Esta gráfica muestra las dos tendencias lineales en la métrica $\langle L \rangle$ y su intersección, lo que indica cambios en la topología de la red.
   
-   ![CV_CV30.png](include/CV_CV30.png)
-![C_cv.png](include/C_cv.png)
-![C_k.png](include/C_k.png)
-![Cl_densy.png](include/Cl_densy.png)
-![Grade_CV.png](include/Grade_CV.png)
-![Grade_CV30.png](include/Grade_CV30.png)
-![Hentropy.png](include/Hentropy.png)
-![Jan14.png](include/Jan14.png)
-![Jan21.png](include/Jan21.png)
-![Jan29.png](include/Jan29.png)
-![LP_CV.png](include/LP_CV.png)
-![LP_CV30.png](include/LP_CV30.png)
-![LP_cv.png](include/LP_cv.png)
-![LP_k.png](include/LP_k.png)
-![LP_k30.png](include/LP_k30.png)
-![Mar04.png](include/Mar04.png)
-![Mar07.png](include/Mar07.png)
-![Mar10.png](include/Mar10.png)
-![Modularidad.png](include/Modularidad.png)
-![Modularidad_witges_250.png](include/Modularidad_witges_250.png)
+
 ![SWP_LP.png](include/SWP_LP.png)
 ![SWP_cl.png](include/SWP_cl.png)
 ![SWP_ponderado_250.png](include/SWP_ponderado_250.png)
