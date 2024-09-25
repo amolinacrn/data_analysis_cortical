@@ -49,18 +49,9 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
    - Esta gráfica muestra las dos tendencias lineales en la métrica $\langle L \rangle$ y su intersección, lo que indica cambios en la topología de la red.
   
 
-![SWP_LP.png](include/SWP_LP.png)
+
 ![SWP_cl.png](include/SWP_cl.png)
-![SWP_ponderado_250.png](include/SWP_ponderado_250.png)
-![SWP_witges_100.png](include/SWP_witges_100.png)
-![SWP_witges_250.png](include/SWP_witges_250.png)
-![ajuste_cl_250.png](include/ajuste_cl_250.png)
-![clusterin_100.png](include/clusterin_100.png)
-![clusterin_250.png](include/clusterin_250.png)
-![conec_dist.png](include/conec_dist.png)
-![cv.png](include/cv.png)
-![cv_funcioal.png](include/cv_funcioal.png)
-![dis_pesos.png](include/dis_pesos.png)
+
 ![fit_100.png](include/fit_100.png)
 ![fit_250.png](include/fit_250.png)
 ![fit_50.png](include/fit_50.png)
@@ -68,7 +59,7 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 ![grado_100.png](include/grado_100.png)
 ![grado_250.png](include/grado_250.png)
 ![grado_vs_cv.png](include/grado_vs_cv.png)
-![levy.png](include/levy.png)
+
 ![lp_cv_Jan21.png](include/lp_cv_Jan21.png)
 ![lp_cv_Jan29.png](include/lp_cv_Jan29.png)
 ![lp_cv_Mar04.png](include/lp_cv_Mar04.png)
