@@ -63,9 +63,4 @@ Este estudio es pionero en describir y analizar cómo las redes funcionales var�
 
 ## Autores
 
-- [Tu Nombre](https://github.com/tu_usuario)
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
+- [Miguel Alejandro Molin Ceron](https://github.com/tu_usuario)
