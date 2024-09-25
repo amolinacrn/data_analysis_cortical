@@ -44,26 +44,25 @@ Sin embargo, la variabilidad incontrolable en la red plantea desafíos significa
 ## Presentación de Gráficas Relevantes
 
 A continuación, se presentan algunas de las gráficas más relevantes del proyecto que ilustran los hallazgos más significativos:
+1. ** Correlaciones cruzadas y matriz de conectividad**
+      Aquí mostramos las correlaciones y retrasos temporales, así como la correspondiente matriz de conectividad.
 
-1. **Gráfica de Variación de la Métrica $\langle L \rangle$:**
+    ![rhogrado_100.png](include/mcc_corr.png)
+
+3. **Gráfica de Variación de la Métrica $\langle L \rangle$:**
    - Esta gráfica muestra las dos tendencias lineales en la métrica $\langle L \rangle$ y su intersección, lo que indica cambios en la topología de la red.
-  
 
-![grado_100.png](include/grado_100.png)
 ![path_length_100.png](include/path_length_100.png)
 ![rhogrado_100.png](include/pl_densy.png)
+
+3. ** Aumento de la sicronización con el coeficiente de variación  **
+
 ![rhogrado_100.png](include/cv_funcioal.png)
-
-
-
-2. **Distribución de Grado de las Neuronas:**
-   - Aquí se presenta la distribución del grado medio de las neuronas en la red, evidenciando la estructura modular.
-
-3. **Propensión al Mundo Pequeño:**
-   - Esta gráfica ilustra cómo la propiedad de mundo pequeño varía con el coeficiente de variación, destacando su relevancia en diferentes estados corticales.
 
 4. **Patrones de Activación Neuronal:**
    - Gráficas que muestran los patrones de activación en diferentes condiciones experimentales, ayudando a entender la dinámica de la actividad neuronal.
+  
+     ![rhogrado_100.png](include/cvComunidad.png)
 
 ## Conclusiones
 
