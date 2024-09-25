@@ -45,7 +45,7 @@ Sin embargo, la variabilidad incontrolable en la red plantea desafíos significa
 
 A continuación, se presentan algunas de las gráficas más relevantes del proyecto que ilustran los hallazgos más significativos:
 1. **Correlaciones cruzadas y matriz de conectividad**
-      Aquí mostramos las correlaciones y retrasos temporales, así como la correspondiente matriz de conectividad.
+     - Aquí mostramos las correlaciones y retrasos temporales, así como la correspondiente matriz de conectividad.
 
     ![rhogrado_100.png](include/mcc_corr.png)
 
@@ -56,11 +56,12 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 ![rhogrado_100.png](include/pl_densy.png)
 
 3. **Aumento de la sicronización con el coeficiente de variación**
+  - Cada color es un estado de activación neuronal que corresponde a un cofieciente de variacion $CV_i$. Si los coeficientes de varación aumentan, las correlaciones son mas fuertes.  
 
 ![rhogrado_100.png](include/cv_funcioal.png)
 
 4. **Patrones de Activación Neuronal:**
-   - Gráficas que muestran los patrones de activación en diferentes condiciones experimentales, ayudando a entender la dinámica de la actividad neuronal.
+   - Gráficas que muestran los patrones de activación neuronal en funcion del tiempo.
   
      ![rhogrado_100.png](include/cvComunidad.png)
 
