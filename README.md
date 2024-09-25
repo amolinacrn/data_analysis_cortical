@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Este proyecto investiga las **redes funcionais** del cerebro en ratas anestesidas con uretana, centrándose en la **estrutura modular** y los **patrones** que emergen entre diferentes estados corticales. Se estudiaron las interacciones neuronales mediante **ciencia de redes**, lo que permite una comprensión más profunda de la dinámica de la actividad cerebral.
+Este proyecto investiga las **redes funcionais** del cerebro de ratas anestesiadas con uretana, centrándose en la **estrutura modular** y los **patrones** que emergen entre diferentes estados corticales. Se estudiaron las interacciones neuronales mediante **ciencia de redes**, lo que permite una comprensión más profunda de la dinámica de la actividad cerebral.
 
 ## Objetivos
 
-- Analizar la organización funcional del cerebro.
+- Analizar la organización funcional del cerebro de ratas.
 - Investigar la influencia de las estructuras modulares en el procesamiento de información.
 - Identificar patrones de actividad cortical asociados a distintos estados mentales.
 
@@ -31,11 +31,19 @@ Para evaluar la significancia de las correlaciones, se utilizó el método **Spi
 
 El análisis se centró en calcular los valores funcionales y se utilizó la frecuencia de disparo de neuronas para evaluar las interacciones entre ellas a lo largo del tiempo.
 
-## Resultados Esperados
+## Resultados
 
-- Comprensión de la organización funcional del cerebro.
-- Identificación de modulaciones en la actividad cerebral durante tareas cognitivas.
-- Generación de modelos que representen la dinámica de la actividad cortical.
+En este estudio, se realizó un análisis de datos corticais (series temporales) de ratas anestesiadas con uretana, enfocándose en la región visual \( V_1 \). Para optimizar el rendimiento computacional, se desarrollaron códigos en diferentes lenguajes de programación, incluyendo C, C++, C# y Python, además de utilizar software como Wolfram Mathematica y MATLAB.
+
+Los resultados destacan que todas las métricas de red muestran variación en función del coeficiente de variación. Las métricas analizadas incluyen el grado medio, eficiencia media, longitud del camino, propensión al mundo pequeño, modularidad y coeficiente de agrupamiento. Especial atención se presta a la métrica \( \langle L \rangle \), que presenta dos tendencias lineales que se cruzan en un rango aproximado de 1.2 a 1.4, valores cercanos al punto crítico identificado en investigaciones anteriores.
+
+La métrica \( \langle L \rangle \) es crucial para cuantificar la estructura topológica de una red y su variación cerca del punto crítico puede ofrecer pistas sobre cambios en la topología de las redes funcionales. Los resultados muestran similitudes cualitativas entre redes binarias y ponderadas. La propiedad de mundo pequeño es más pronunciada a bajos niveles de coeficiente de variación, disminuyendo a medida que aumenta este parámetro.
+
+Sin embargo, la variabilidad incontrolable en la red plantea desafíos significativos, ya que las métricas \( \langle L \rangle \) y \( \langle C \rangle \) son altamente sensibles a estas variaciones, lo que puede introducir sesgos en los resultados. La detección de patrones en las series temporales es fundamental, ya que centrarse solo en el coeficiente de variación puede llevar a limitaciones en la comprensión de la dinámica subyacente.
+
+## Conclusiones
+
+Este estudio es pionero en describir y analizar cómo las redes funcionales varían en diferentes estados corticales inducidos por uretana. Nuestros hallazgos, aunque esperados, requieren validación adicional. Se enfatiza la importancia de establecer redes funcionales con un número constante de nodos y grado medio para obtener resultados más estables. También se sugiere considerar métricas alternativas para calcular correlaciones, como aquellas basadas en la teoría de la información y el coeficiente de correlación de Pearson.
 
 ## Autores
 
