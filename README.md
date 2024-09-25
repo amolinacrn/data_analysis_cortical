@@ -41,6 +41,22 @@ La métrica $\langle L \rangle$ es crucial para cuantificar la estructura topol�
 
 Sin embargo, la variabilidad incontrolable en la red plantea desafíos significativos, ya que las métricas $\langle L \rangle$ y $\langle C \rangle$ son altamente sensibles a estas variaciones, lo que puede introducir sesgos en los resultados. La detección de patrones en las series temporales es fundamental, ya que centrarse solo en el coeficiente de variación puede llevar a limitaciones en la comprensión de la dinámica subyacente.
 
+## Presentación de Gráficas Relevantes
+
+A continuación, se presentan algunas de las gráficas más relevantes del proyecto que ilustran los hallazgos más significativos:
+
+1. **Gráfica de Variación de la Métrica $\langle L \rangle$:**
+   - Esta gráfica muestra las dos tendencias lineales en la métrica $\langle L \rangle$ y su intersección, lo que indica cambios en la topología de la red.
+
+2. **Distribución de Grado de las Neuronas:**
+   - Aquí se presenta la distribución del grado medio de las neuronas en la red, evidenciando la estructura modular.
+
+3. **Propensión al Mundo Pequeño:**
+   - Esta gráfica ilustra cómo la propiedad de mundo pequeño varía con el coeficiente de variación, destacando su relevancia en diferentes estados corticales.
+
+4. **Patrones de Activación Neuronal:**
+   - Gráficas que muestran los patrones de activación en diferentes condiciones experimentales, ayudando a entender la dinámica de la actividad neuronal.
+
 ## Conclusiones
 
 Este estudio es pionero en describir y analizar cómo las redes funcionales varían en diferentes estados corticales inducidos por uretana. Nuestros hallazgos, aunque esperados, requieren validación adicional. Se enfatiza la importancia de establecer redes funcionales con un número constante de nodos y grado medio para obtener resultados más estables. También se sugiere considerar métricas alternativas para calcular correlaciones, como aquellas basadas en la teoría de la información y el coeficiente de correlación de Pearson.
