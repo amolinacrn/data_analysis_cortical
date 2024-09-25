@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto investiga las **redes funcionais** del cerebro humano, centrándose en la **estrutura modular** y los **patrones** que emergen entre diferentes estados corticales. Se estudiaron las interacciones neuronales mediante **ciencia de redes**, lo que permite una comprensión más profunda de la dinámica de la actividad cerebral.
+Este proyecto investiga las **redes funcionais** del cerebro en ratas anestesidas con uretana, centrándose en la **estrutura modular** y los **patrones** que emergen entre diferentes estados corticales. Se estudiaron las interacciones neuronales mediante **ciencia de redes**, lo que permite una comprensión más profunda de la dinámica de la actividad cerebral.
 
 ## Objetivos
 
