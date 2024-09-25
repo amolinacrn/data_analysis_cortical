@@ -56,7 +56,7 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
 ![rhogrado_100.png](include/pl_densy.png)
 
 3. **Aumento de la sicronización con el coeficiente de variación**
-  - Cada color es un estado de activación neuronal que corresponde a un cofieciente de variacion $CV_i$. Si los coeficientes de varación aumentan, las correlaciones son mas fuertes.  
+  - Cada color es un estado de activación neuronal que corresponde a un cofieciente de variacion $CV_i$. Si los coeficientes de varación aumentan, las correlaciones son mas fuertes, implica una mayor sincronización neuronal.  
 
 ![rhogrado_100.png](include/cv_funcioal.png)
 
