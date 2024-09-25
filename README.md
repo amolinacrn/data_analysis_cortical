@@ -49,15 +49,8 @@ A continuación, se presentan algunas de las gráficas más relevantes del proye
    - Esta gráfica muestra las dos tendencias lineales en la métrica $\langle L \rangle$ y su intersección, lo que indica cambios en la topología de la red.
   
 
-
-![SWP_cl.png](include/SWP_cl.png)
-![fit_100.png](include/fit_100.png)
 ![grado_100.png](include/grado_100.png)
-![grado_vs_cv.png](include/grado_vs_cv.png)
-![lp_cv_Mar07.png](include/lp_cv_Mar07.png)
 ![path_length_100.png](include/path_length_100.png)
-![pl_densy.png](include/pl_densy.png)
-![pl_densy_250.png](include/pl_densy_250.png)
 ![rhogrado_100.png](include/rhogrado_100.png)
 
 
