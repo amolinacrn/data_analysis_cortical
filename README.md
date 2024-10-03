@@ -10,9 +10,7 @@ El trabajo se basa en la **correlación cruzada normalizada (NCC)**, que cuantif
    - Cuantifica la actividad de un neurón objetivo en relación con un neurón de referencia.
    - La fórmula es:
 
-   $
-   C_{xy}(\tau) = \frac{1}{\sqrt{N_x N_y}} \sum_{s=1}^{N_x} x(t) y(t - \tau)
-   $
+   $C_{xy}(\tau) = \frac{1}{\sqrt{N_x N_y}} \sum_{s=1}^{N_x} x(t) y(t - \tau)$
 
    - Este método es eficaz para detectar conexiones excitatorias, pero tiene limitaciones en la detección de conexiones inhibitorias.
 
@@ -20,9 +18,7 @@ El trabajo se basa en la **correlación cruzada normalizada (NCC)**, que cuantif
    - Se introduce un segundo algoritmo para detectar conexiones inhibitorias.
    - La fórmula es:
 
-   $
-   FNCCH = \arg \max_{t} \left| C_{xy}(t) - \frac{1}{W} \sum_{v=-W/2}^{W/2} C_{xy}(v) \right|
-   $
+   $FNCCH = \arg \max_{t} \left| C_{xy}(t) - \frac{1}{W} \sum_{v=-W/2}^{W/2} C_{xy}(v) \right|$
 
    - Este algoritmo permite distinguir entre conexiones excitatorias e inhibitorias al considerar la media de la NCC y detectar los valores positivos y negativos de disparo.
 
