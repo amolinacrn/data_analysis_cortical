@@ -32,7 +32,7 @@ Los datos analizados se recolectaron con una sonda de 64 canales en el córtex v
 ### Correlación Cruzada
 La correlación cruzada mide la relación entre la frecuencia de disparo de neuronas, donde la función de correlación cruzada normalizada está dada por:
 
-$ C_{xy}(\tau) = \frac{1}{N_x N_y} \sum_{s=1}^{N_x} x(t) y(t - \tau) $
+$C_{xy}(\tau) = \frac{1}{N_x N_y} \sum_{s=1}^{N_x} x(t) y(t - \tau)$
 
 
 Los valores de \(C_{xy}(\tau)\) varían entre [0, 1], indicando independencia o sincronicidad entre neuronas.
