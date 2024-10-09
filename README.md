@@ -1,34 +1,50 @@
-# Análisis de conectividad neuronal
+# Estudo de Sistemas Complexos e Análise de Redes Neurais
 
-Este proyecto se centra en el análisis de conexiones neuronales mediante la aplicación de métodos de correlación cruzada. A continuación, se presentan los puntos más destacados relacionados con la metodología utilizada.
+## Descrição
+O estudo de sistemas complexos busca compreender o comportamento emergente através da análise detalhada de seus componentes e interações. Abrangendo áreas como DNA, funcionamento cerebral, dinâmica urbana, clima e arquitetura da Internet, a análise de redes — composta por nós e arestas — tem sido especialmente útil em campos como neurociência e redes sociais.
 
-## Método de Correlación
+## Análise de Redes Funcionais
+Neste trabalho, analisamos redes funcionais obtidas por correlações cruzadas, onde:
+- **Nós** representam neurônios.
+- **Arestas** refletem as correlações entre eles.
 
-El trabajo se basa en la **correlación cruzada normalizada (NCC)**, que cuantifica las interacciones entre pares de neuronas. Se reconocen dos algoritmos:
+A correlação máxima entre pares de neurônios indica a interação entre seus padrões de disparo, permitindo identificar e quantificar conexões neurais. A análise funcional abrange:
+- Transmissão de sinais.
+- Propagação de informações.
+- Avaliação da eficiência do sistema.
 
-1. **Correlación Cruzada Normalizada (NCC)**:
-   - Cuantifica la actividad de un neurón objetivo en relación con un neurón de referencia.
-   - La fórmula es:
+A teoria dos grafos é a ferramenta central utilizada para estudar as relações na rede.
 
-   $C_{xy}(\tau) = \frac{1}{\sqrt{N_x N_y}} \sum_{s=1}^{N_x} x(t) y(t - \tau)$
+## Dispositivos de Registro e Aquisição de Dados
+Esta seção fornece uma visão geral dos dados experimentais:
+- Técnica experimental desenvolvida.
+- Dispositivos eletrônicos utilizados.
+- Software empregado.
+- Aquisição de dados eletrofisiológicos analisados no Laboratório de Neurociência de Sistema e Computacional (LNSC) da UFPE.
 
-   - Este método es eficaz para detectar conexiones excitatorias, pero tiene limitaciones en la detección de conexiones inhibitorias.
+### Monitoramento Eletrofisiológico
+O monitoramento eletrofisiológico visa detectar a atividade neuronal em áreas específicas do cérebro, utilizando:
+- **Sondas de silício** para registrar a atividade extracelular.
+- **Potenciais de ação (PA)**, impulsos elétricos gerados pela abertura de canais iônicos.
 
-2. **Filtrado de Correlación Cruzada Normalizada (FNCCH)**:
-   - Se introduce un segundo algoritmo para detectar conexiones inhibitorias.
-   - La fórmula es:
+Os dados analisados foram coletados com uma sonda de 64 canais no córtex visual primário (V1) de ratos anestesiados. Sinais registrados são amplificados e filtrados para extrair potenciais de ação, e algoritmos de classificação agrupam formas de onda semelhantes.
 
-   $FNCCH = \arg \max_{t} \left| C_{xy}(t) - \frac{1}{W} \sum_{v=-W/2}^{W/2} C_{xy}(v) \right|$
+### Correlação Cruzada
+A correlação cruzada mede a relação entre a frequência de disparo de neurônios, onde a função de correlação cruzada normalizada é dada por:
 
-   - Este algoritmo permite distinguir entre conexiones excitatorias e inhibitorias al considerar la media de la NCC y detectar los valores positivos y negativos de disparo.
+\[C_{xy}(\tau) = \frac{1}{N_x N_y} \sum_{s=1}^{N_x} x(t) y(t - \tau)\]
 
-## Resultados
+Valores de \(C_{xy}(\tau)\) variam entre [0, 1], indicando independência ou sincronia entre neurônios.
 
-Los resultados de este análisis permitirán una comprensión más profunda de las interacciones neuronales, especialmente en términos de cómo los diferentes tipos de conexiones influyen en la actividad neuronal. Se presentan ejemplos visuales de cómo se detectan las conexiones excitatorias e inhibitorias en los correlogramas cruzados.
+## Matriz de Conectividade
+A conectividade funcional é definida pela coincidência temporal entre atividades neuronais. A matriz de conectividade \(M\) é uma matriz bidimensional que descreve as interações entre pares de neurônios.
 
----
+### Definição de Limiar
+As matrizes de conectividade podem ser inicialmente totalmente conectadas, incluindo correlações verdadeiras e espúrias. As duas técnicas para definir limiares incluem:
+1. **Limiar Rígido**: Um limiar fixo que mantém conexões significativas.
+2. **Limiar com Dados Surrogados**: Geração de dados surrogados para avaliar a significância das correlações.
 
-Este resumen proporciona una visión clara de los métodos utilizados en el proyecto. Puedes ajustarlo según sea necesario para que se adapte mejor a tu estilo y al contenido del resto del documento.
+A técnica de "Spike Time Dithering" é uma abordagem específica utilizada para essa análise.
 
-
-   
+## Conclusão
+A escolha do limiar depende dos objetivos do pesquisador, e não existe um limiar universalmente aceito. A pesquisa atual busca integrar redes funcionais complexas com mineração de dados, enfatizando a importância do limiar e das métricas nos resultados analíticos.
