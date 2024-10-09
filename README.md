@@ -61,3 +61,7 @@ Este estudio analiza datos corticales de ratas anestesiadas con uretana, centrá
 | ![ajuste30pp](include/degsdg.png) | ![grafsigma](include/fit_100.png) |
 | ![ajuste30pp](include/dis_pesos.png) | ![grafsigma](include/pl_densy_250.png) |
 | ![ajuste30pp](include/redexpMar0710s.png) | ![grafsigma](include/rhogrado_100.png) |
+
+Para mayor informacion sobre este trabajo haga clik [aqui](https://repositorio.ufpe.br/handle/123456789/53859)
+
+
