@@ -45,9 +45,9 @@ La conectividad funcional se define por la coincidencia temporal entre actividad
 | ![Modularidad](include/Modularidad.png) | ![ajuste62pp](include/cv.png) |
 | ![cv](include/cvComunidad.png) | ![unnamedpbarp](include/cv_funcioal.png) |
 | ![ajuste30pp](include/degsdg.png) | ![grafsigma](include/fit_100.png) |
-| ![ajuste30pp](include/dis_pesos.png) | ![grafsigma]() |
-| ![ajuste30pp](include/mcc_corr.png) | ![grafsigma](include/pl_densy_250.png) |
-| ![ajuste30pp](include/redexpMar0710s.png) | ![grafsigma](include/rhogrado_100.png) |
+| ![ajuste30pp](include/dis_pesos.png) | ![grafsigma](include/pl_densy_250.png) |
+| ![ajuste30pp](include/mcc_corr.png) | ![grafsigma](include/rhogrado_100.png) |
+| ![ajuste30pp](include/redexpMar0710s.png) | ![grafsigma]() |
 
 
 ### Definición de Límite
