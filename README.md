@@ -39,9 +39,8 @@ Los valores de $\(C_{xy}(\tau)\)$ varían entre [0, 1], indicando independencia 
 
 ## Matriz de Conectividad
 La conectividad funcional se define por la coincidencia temporal entre actividades neuronales. La matriz de conectividad \(M\) es una matriz bidimensional que describe las interacciones entre pares de neuronas.
-|                                        |                                        |
-|----------------------------------------|----------------------------------------|
 ![ajuste30pp](include/mcc_corr.png) 
+|                                        |                                        |
 | ![Grade_CV](include/Grade_CV.png) | ![lp](include/LP_CV.png) |
 | ![Modularidad](include/Modularidad.png) | ![ajuste62pp](include/cv.png) |
 | ![cv](include/cvComunidad.png) | ![unnamedpbarp](include/cv_funcioal.png) |
