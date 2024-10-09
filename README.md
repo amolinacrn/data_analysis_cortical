@@ -43,7 +43,7 @@ La conectividad funcional se define por la coincidencia temporal entre actividad
 |----------------------------------------|----------------------------------------|
 | ![Grade_CV](include/Grade_CV.png) | ![lp](include/LP_CV.png) |
 | ![Modularidad](include/Modularidad.png) | ![ajuste62pp](multifit/ajuste62pp.png) |
-| ![cv]() | ![unnamedpbarp](include/include/cv.png) |
+| ![cv]() | ![unnamedpbarp](include/cv.png) |
 | ![ajuste30pp](include/cv_funcioal.png) | ![grafsigma](include/degsdg.png) |
 | ![ajuste30pp](include/dis_pesos.png) | ![grafsigma](include/fit_100.png) |
 | ![ajuste30pp](include/mcc_corr.png) | ![grafsigma](include/pl_densy_250.png) |
