@@ -40,14 +40,6 @@ Los valores de $\(C_{xy}(\tau)\)$ varían entre [0, 1], indicando independencia 
 ## Matriz de Conectividad
 La conectividad funcional se define por la coincidencia temporal entre actividades neuronales. La matriz de conectividad \(M\) es una matriz bidimensional que describe las interacciones entre pares de neuronas.
 ![ajuste30pp](include/mcc_corr.png) 
-|                                        |                                        |
-| ![Grade_CV](include/Grade_CV.png) | ![lp](include/LP_CV.png) |
-| ![Modularidad](include/Modularidad.png) | ![ajuste62pp](include/cv.png) |
-| ![cv](include/cvComunidad.png) | ![unnamedpbarp](include/cv_funcioal.png) |
-| ![ajuste30pp](include/degsdg.png) | ![grafsigma](include/fit_100.png) |
-| ![ajuste30pp](include/dis_pesos.png) | ![grafsigma](include/pl_densy_250.png) |
-| ![ajuste30pp](include/redexpMar0710s.png) | ![grafsigma](include/rhogrado_100.png) |
-
 
 ### Definición de Límite
 Las matrices de conectividad pueden estar inicialmente totalmente conectadas, incluyendo tanto correlaciones verdaderas como espurias. Las dos técnicas para definir límites incluyen:
