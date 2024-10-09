@@ -50,7 +50,7 @@ La técnica de "Spike Time Dithering" es un enfoque específico utilizado para e
 
 ## Conclusión
 La elección del límite depende de los objetivos del investigador, y no existe un límite universalmente aceptado. La investigación actual busca integrar redes funcionales complejas con minería de datos, enfatizando la importancia del límite y de las métricas en los resultados analíticos.
-
+|                                        |                                        |
 |----------------------------------------|----------------------------------------|
 | ![Grade_CV](include/Grade_CV.png) | ![lp](include/LP_CV.png) |
 | ![Modularidad](include/Modularidad.png) | ![ajuste62pp](include/cv.png) |
