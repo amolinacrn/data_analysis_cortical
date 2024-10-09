@@ -35,7 +35,7 @@ La correlación cruzada mide la relación entre la frecuencia de disparo de neur
 $C_{xy}(\tau) = \frac{1}{N_x N_y} \sum_{s=1}^{N_x} x(t) y(t - \tau)$
 
 
-Los valores de \(C_{xy}(\tau)\) varían entre [0, 1], indicando independencia o sincronicidad entre neuronas.
+Los valores de $\(C_{xy}(\tau)\)$ varían entre [0, 1], indicando independencia o sincronicidad entre neuronas.
 
 ## Matriz de Conectividad
 La conectividad funcional se define por la coincidencia temporal entre actividades neuronales. La matriz de conectividad \(M\) es una matriz bidimensional que describe las interacciones entre pares de neuronas.
