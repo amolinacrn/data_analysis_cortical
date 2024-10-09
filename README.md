@@ -50,7 +50,9 @@ La técnica de "Spike Time Dithering" es un enfoque específico utilizado para e
 
 ## Conclusión
 Este estudio analiza datos corticales de ratas anestesiadas con uretana, centrándose en la región visual V1 y utilizando diversos lenguajes de programación para optimizar el rendimiento computacional. Se observa que las métricas de red, como el grado medio y la eficiencia, varían en función del coeficiente de variación, destacando la métrica ⟨𝐿⟩, que muestra tendencias lineales que se cruzan cerca del punto crítico identificado en investigaciones anteriores. La variabilidad incontrolable en las redes complica el análisis y puede introducir sesgos en los resultados. El estudio subraya la importancia de detectar patrones en las series temporales y sugiere que futuras investigaciones deberían mantener constante el número de nodos o el grado medio para mejorar la estabilidad de los resultados.
-##Visualización de resultados
+
+## Visualización de resultados
+
 |                                        |                                        |
 |----------------------------------------|----------------------------------------|
 | ![Grade_CV](include/Grade_CV.png) | ![lp](include/LP_CV.png) |
