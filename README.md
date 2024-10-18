@@ -5,8 +5,21 @@ En este trabajo, analizamos un conjunto de datos de registros electrofisiológic
 
 Para mejorar nuestra comprensión de la dinámica neural, cuantificamos su configuración estructural de interconexiones utilizando métricas clásicas de la ciencia de redes, como coeficiente de agrupamiento, longitud de camino característica, eficiencia y la propiedad de mundo pequeño. Además, utilizando algoritmos de detección de comunidades en redes y la distancia de Jensen-Shannon, comparamos las distribuciones de actividad neuronal y su evolución, identificando patrones al considerar diferentes niveles de similitud, presentando así una estrategia para la clasificación no supervisada de patrones en datos de actividad cortical obtenidos mediante procedimientos electrofisiológicos y estados corticales variables inducidos por el uretano.
 
-## Objetivos
-determan
+
+
+### Objetivo General:
+Analizar la dinámica neuronal en ratas anestesiadas mediante la caracterización de redes funcionales obtenidas a partir de registros electrofisiológicos, empleando técnicas de análisis de redes y detección de patrones en estados corticales inducidos por uretano.
+
+### Objetivos Específicos:
+1. Cuantificar las interacciones neuronales en segmentos de 250 segundos mediante el cálculo de correlaciones cruzadas, representando la dinámica neuronal en redes funcionales.
+   
+2. Evaluar la estructura de interconexiones neuronales utilizando métricas clásicas de ciencia de redes como el coeficiente de agrupamiento, la longitud de camino característica, la eficiencia y la propiedad de mundo pequeño.
+
+3. Identificar patrones de actividad neuronal utilizando algoritmos de detección de comunidades y la distancia de Jensen-Shannon, comparando las distribuciones de actividad cortical en diferentes estados corticales inducidos por uretano.
+
+4. Desarrollar una estrategia de clasificación no supervisada de patrones en los datos de actividad cortical obtenidos por procedimientos electrofisiológicos.
+
+
 
 ## Análisis de Redes Funcionales
 En este trabajo, se analizan redes funcionales obtenidas por correlaciones cruzadas, donde:
