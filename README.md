@@ -1,7 +1,9 @@
 # Redes funcionales, estructura modular y patrones entre estados corticales.
 
 ## Descripción
-El estudio de sistemas complejos busca comprender el comportamiento emergente a través del análisis detallado de sus componentes e interacciones. Abarcando áreas como el ADN, el funcionamiento cerebral, la dinámica urbana, el clima y la arquitectura de Internet, el análisis de redes —compuesto por nodos y aristas— ha demostrado ser especialmente útil en campos como la neurociencia y las redes sociales.
+En este trabajo, analizamos un conjunto de datos de registros electrofisiológicos en ratas anestesiadas con uretano. Caracterizamos la actividad neuronal mediante el análisis estadístico de la actividad celular registrada en segmentos de 250 segundos. Para cada uno de estos segmentos, las interacciones neuronales se cuantifican mediante el cálculo de correlaciones cruzadas. Los resultados de la dinámica en los diferentes segmentos se representan mediante redes funcionales en las que los nodos definen las neuronas en interacción y sus aristas describen los máximos funcionales.
+
+Para mejorar nuestra comprensión de la dinámica neural, cuantificamos su configuración estructural de interconexiones utilizando métricas clásicas de la ciencia de redes, como coeficiente de agrupamiento, longitud de camino característica, eficiencia y la propiedad de mundo pequeño. Además, utilizando algoritmos de detección de comunidades en redes y la distancia de Jensen-Shannon, comparamos las distribuciones de actividad neuronal y su evolución, identificando patrones al considerar diferentes niveles de similitud, presentando así una estrategia para la clasificación no supervisada de patrones en datos de actividad cortical obtenidos mediante procedimientos electrofisiológicos y estados corticales variables inducidos por el uretano.
 
 ## Objetivos
 determan
