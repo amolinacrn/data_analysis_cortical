@@ -1,7 +1,10 @@
-# Estudio de Sistemas Complejos y Análisis de Redes Neuronales
+# Redes funcionales, estructura modular y patrones entre estados corticales.
 
 ## Descripción
 El estudio de sistemas complejos busca comprender el comportamiento emergente a través del análisis detallado de sus componentes e interacciones. Abarcando áreas como el ADN, el funcionamiento cerebral, la dinámica urbana, el clima y la arquitectura de Internet, el análisis de redes —compuesto por nodos y aristas— ha demostrado ser especialmente útil en campos como la neurociencia y las redes sociales.
+
+## Objetivos
+determan
 
 ## Análisis de Redes Funcionales
 En este trabajo, se analizan redes funcionales obtenidas por correlaciones cruzadas, donde:
