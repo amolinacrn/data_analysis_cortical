@@ -7,10 +7,10 @@ Para mejorar nuestra comprensión de la dinámica neural, cuantificamos su confi
 
 
 
-### Objetivo General:
+## Objetivo General:
 Analizar la dinámica neuronal en ratas anestesiadas mediante la caracterización de redes funcionales obtenidas a partir de registros electrofisiológicos, empleando técnicas de análisis de redes y detección de patrones en estados corticales inducidos por uretano.
 
-### Objetivos Específicos:
+## Objetivos Específicos:
 1. Cuantificar las interacciones neuronales en segmentos de 250 segundos mediante el cálculo de correlaciones cruzadas, representando la dinámica neuronal en redes funcionales.
    
 2. Evaluar la estructura de interconexiones neuronales utilizando métricas clásicas de ciencia de redes como el coeficiente de agrupamiento, la longitud de camino característica, la eficiencia y la propiedad de mundo pequeño.
